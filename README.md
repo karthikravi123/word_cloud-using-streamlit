@@ -12,4 +12,13 @@ Also known as tag clouds or text clouds, these are ideal ways to pull out the mo
 
 Perhaps you’re already leveraging advanced data visualization techniques to turn your important analytics into charts, graphs, and infographics. This is an excellent first step, as our brains prefer visual information over any other format.
 
+library packages to install :
+
+pip install streamlit
+
+pip install pandas
+
+pip install bs4
+
+
 
