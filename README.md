@@ -23,4 +23,17 @@ pip install pandas
 pip install bs4
 
 
+![image](https://user-images.githubusercontent.com/86100724/145957712-2dfcf891-9363-46a1-9aba-9cf3b6193218.png)
+
+
+output:
+
+![image](https://user-images.githubusercontent.com/86100724/145958659-5e1ac506-0e25-4422-bc75-21315b4a295e.png)
+
+
+
+
+
+
+
 
